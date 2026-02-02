@@ -56,4 +56,127 @@
   <block id="4932dd0c0fb7706ddbd089d6e39216eb" category="sidebar">Soluções para simplificar e dimensionar ambientes Kubernetes com implantações validadas e integração perfeita com sistemas e softwares de gerenciamento de armazenamento da NetApp .</block>
   <block id="aeb11413825c35abdf36736cbaa541ef" category="sidebar">Soluções de gerenciamento de dados</block>
   <block id="c571e150d27b8578da48b93620fb3a66" category="sidebar">Soluções para gerenciar seus serviços de armazenamento e dados, no local e em nuvens.</block>
+  <block id="0c5a761290c1a2a4bae66679d5443b36" category="cell">*Categoria*</block>
+  <block id="50bd13d2b424bef06acb4558d6c5cc04" category="cell">*Título do blog*</block>
+  <block id="0a40e3c91a3a55c9a37428c6d194d0e5" category="cell">IA</block>
+  <block id="4ad92fbbf9b8a37f3fa16c364f98327f" category="inline-link-macro">KV CacheBlend - o que é e por que é importante</block>
+  <block id="bebc1d02db89ca19c10054374834e222" category="cell"><block ref="bebc1d02db89ca19c10054374834e222" category="inline-link-macro-rx"></block></block>
+  <block id="04a939d688c302a1a02da2a4d9f83c5e" category="inline-link-macro">Zero a inferência de LLM em cinco minutos</block>
+  <block id="b1b4b0a5aaa2e992f8e68b760e3c9fbb" category="cell"><block ref="b1b4b0a5aaa2e992f8e68b760e3c9fbb" category="inline-link-macro-rx"></block></block>
+  <block id="615437f0cbfdf23246fc2ce0da4d075b" category="inline-link-macro">Zero a Inferência de LLM - Edição vLLM</block>
+  <block id="099fa2c8edb30928c29dc186c0c44988" category="cell"><block ref="099fa2c8edb30928c29dc186c0c44988" category="inline-link-macro-rx"></block></block>
+  <block id="abd3e473f1d708d8b8cae96e526db6b5" category="inline-link-macro">Inferência LLM - descarregamento do cache KV para ONTAP com vLLM e GDS</block>
+  <block id="b13b3e41591bb904cff0c92471b22552" category="cell"><block ref="b13b3e41591bb904cff0c92471b22552" category="inline-link-macro-rx"></block></block>
+  <block id="c5b7b3f2abcabcada7f7db1d1d93a664" category="inline-link-macro">Zero a LLM Inference com NVIDIA NIM e Google Cloud NetApp Volumes</block>
+  <block id="d7780413afdd935b5c4c0b760e9e5473" category="cell"><block ref="d7780413afdd935b5c4c0b760e9e5473" category="inline-link-macro-rx"></block></block>
+  <block id="cc7934de74b771a6493872b08bd59d69" category="inline-link-macro">Hospede OpenAI gpt-oss no NetApp AIPod</block>
+  <block id="777a9a20b7a0201f98c22efff11ca8aa" category="cell"><block ref="777a9a20b7a0201f98c22efff11ca8aa" category="inline-link-macro-rx"></block></block>
+  <block id="2957488d7a4bdc42af502e6592773cf9" category="inline-link-macro">Descarregamento de KV Cache - Quando é benéfico?</block>
+  <block id="f05badcea131bf153bdad541458fdd3f" category="cell"><block ref="f05badcea131bf153bdad541458fdd3f" category="inline-link-macro-rx"></block></block>
+  <block id="29922a3a592a929bc79035e32411a0ae" category="inline-link-macro">Descarregamento do cache KV - CPU RAM vs. storage</block>
+  <block id="a355bc0d957604bd5a42e1677e1c328d" category="cell"><block ref="a355bc0d957604bd5a42e1677e1c328d" category="inline-link-macro-rx"></block></block>
+  <block id="8a36baeb028c7ee79491c8b31ec54211" category="inline-link-macro">Descarregamento de cache KV - explorando os benefícios do storage compartilhado</block>
+  <block id="c33dcb5ad1e895bd274f2aca5dee7f94" category="cell"><block ref="c33dcb5ad1e895bd274f2aca5dee7f94" category="inline-link-macro-rx"></block></block>
+  <block id="4db3e9462eeb2c0430ff31e6267ef920" category="inline-link-macro">ONTAP Tools for VMware 10.5 (Parte 1 de 3): Reforçando a segurança da sua nuvem privada VMware</block>
+  <block id="b0ed83666f2e5cef2c3f9ad3502cfdda" category="cell"><block ref="b0ed83666f2e5cef2c3f9ad3502cfdda" category="inline-link-macro-rx"></block></block>
+  <block id="e2d75d7eb4bd027162b9103950dce3ca" category="inline-link-macro">ONTAP Tools for VMware 10.5 (Parte 2 de 3): protegendo suas implantações VMware vSphere e VCF</block>
+  <block id="f3e143c240a719f60fe588c112d15f40" category="cell"><block ref="f3e143c240a719f60fe588c112d15f40" category="inline-link-macro-rx"></block></block>
+  <block id="341ce072703f3fc3bab1320f6f946467" category="inline-link-macro">ONTAP Tools for VMware 10.5 (Parte 3 de 3): suporte à sua nuvem privada VMware</block>
+  <block id="428f1aa9d0704aeb5168c44703a2dccf" category="cell"><block ref="428f1aa9d0704aeb5168c44703a2dccf" category="inline-link-macro-rx"></block></block>
+  <block id="c57c1a042ff3f535c0fa0ae1bcb8b069" category="inline-link-macro">Simplificando a mobilidade de máquinas virtuais: extensão do Windows Admin Center com tecnologia NetApp Shift Toolkit</block>
+  <block id="9412c93e1b5ee3bf6e08254208d77744" category="cell"><block ref="9412c93e1b5ee3bf6e08254208d77744" category="inline-link-macro-rx"></block></block>
+  <block id="e61ead4102c89a9758572df81301a1d2" category="cell">Nuvem híbrida</block>
+  <block id="8898941c990be63ee81348f2c4780384" category="inline-link-macro">Potencializando as implementações da Microsoft com ONTAP: dimensione o que quiser, quando quiser, onde quiser</block>
+  <block id="f0abcb159f6e78b00f28142f57ac8246" category="cell"><block ref="f0abcb159f6e78b00f28142f57ac8246" category="inline-link-macro-rx"></block></block>
+  <block id="8c4dffd5ba2b94f6b8dbf0f46de2d171" category="inline-link-macro">Proteção de dados SAP HANA no Azure NetApp Files com SnapCenter</block>
+  <block id="6e98332392d2e8cb91c481ab46828b08" category="cell"><block ref="6e98332392d2e8cb91c481ab46828b08" category="inline-link-macro-rx"></block></block>
+  <block id="b33a97e7b696f49ad82fb3af19afaeda" category="inline-link-macro">Operações de atualização e clonagem do sistema SAP no Azure NetApp Files com SnapCenter</block>
+  <block id="8fa28cef79776179830399c7b3c55cc6" category="cell"><block ref="8fa28cef79776179830399c7b3c55cc6" category="inline-link-macro-rx"></block></block>
+  <block id="e1dffcbf5a034188a7b9cf6badec1df5" category="cell">Plataforma de dados</block>
+  <block id="c528059a00e882ae05d7788a444a59e5" category="inline-link-macro">Hierarquização do Hadoop para NetApp NFS (HOT) e S3 (COLD) com NetApp XCP — Guia completo e automação de ponta a ponta</block>
+  <block id="879a02abc18955393f42329a2a843f74" category="cell"><block ref="081a058db21bd5b721620309e03db8f0" category="inline-link-macro-rx"></block></block>
+  <block id="233eac8966c27c151b9d4eb4711f263d" category="inline-link-macro">Modernizando a arquitetura de dados: migrando HDFS Hive para Iceberg em armazenamento de objetos com NetApp</block>
+  <block id="8797c51b3b59f3fb84e78cbc1c20bc4b" category="cell"><block ref="8797c51b3b59f3fb84e78cbc1c20bc4b" category="inline-link-macro-rx"></block></block>
+  <block id="98812e85f26bcc37c60e762a70780688" category="inline-link-macro">Plataforma de dados moderna – Databricks com NetApp ONTAP (FSxN-AWS)</block>
+  <block id="2d2e0427e756fbcf6ec4107588d22110" category="cell"><block ref="2d2e0427e756fbcf6ec4107588d22110" category="inline-link-macro-rx"></block></block>
+  <block id="e8c77061eb1e276057c49a59d11ae416" category="inline-link-macro">Construindo uma arquitetura Flink de alto desempenho com ONTAP</block>
+  <block id="052aee695752be206692c5e5b1119103" category="cell"><block ref="052aee695752be206692c5e5b1119103" category="inline-link-macro-rx"></block></block>
+  <block id="66b9f9c0bde1599e448251ccc5fa8591" category="inline-link-macro">NetApp and VMware – Melhor do que nunca</block>
+  <block id="7734acb06ea7c8149179f40ae688ea8a" category="cell"><block ref="7734acb06ea7c8149179f40ae688ea8a" category="inline-link-macro-rx"></block></block>
+  <block id="78463a384a5aa4fad5fa73e2f506ecfc" category="inline-link-macro">Inglês</block>
+  <block id="37ce0afb395b0346118a74c4f05f20a7" category="cell"><block ref="3b277c3e8740f32e48fe9dd888ed34aa" category="inline-link-macro-rx"></block>&amp;f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[Blogs de AI em NetApp.com]</block>
+  <block id="750b570f7c6cacf7b9f43c1c7919ad96" category="inline-link-macro">Blogs de IA sobre thePub</block>
+  <block id="183754618306c7f8d7df04f981d234f0" category="cell"><block ref="183754618306c7f8d7df04f981d234f0" category="inline-link-macro-rx"></block></block>
+  <block id="81cd1d42ffdb75544144e24cf0f8dc54" category="inline-link-macro">Parte 1: primeiros passos</block>
+  <block id="837bbffc16dc6e344470df1114a13c87" category="cell"><block ref="837bbffc16dc6e344470df1114a13c87" category="inline-link-macro-rx"></block></block>
+  <block id="0437c596200f9be8466a3200f5cf2438" category="inline-link-macro">Parte 2: VCF e ONTAP principal storage</block>
+  <block id="e361fc9a6477c5857207bca25b3d797f" category="cell"><block ref="e361fc9a6477c5857207bca25b3d797f" category="inline-link-macro-rx"></block></block>
+  <block id="14c9e898417d6b3caceb9c60335c4bb3" category="inline-link-macro">Parte 3: VCF e armazenamento principal Element</block>
+  <block id="aa37de763ea804c1fb3fe637fb6ee5ef" category="cell"><block ref="aa37de763ea804c1fb3fe637fb6ee5ef" category="inline-link-macro-rx"></block></block>
+  <block id="fbbcbe8b70235742e3e6aa656c7815d9" category="inline-link-macro">Parte 4: ONTAP Tools for VMware e armazenamento suplementar</block>
+  <block id="de8f12d6d2f85119918d1bbb774d43c8" category="cell"><block ref="de8f12d6d2f85119918d1bbb774d43c8" category="inline-link-macro-rx"></block></block>
+  <block id="ca821d0143286d806ddd63968470ded6" category="inline-link-macro">Otimize o armazenamento e as cargas de trabalho VMware com uso intensivo de dados em qualquer nuvem</block>
+  <block id="068f5a3c2c43d2c98585ba811f53448d" category="cell"><block ref="068f5a3c2c43d2c98585ba811f53448d" category="inline-link-macro-rx"></block></block>
+  <block id="e2064a9f7b6b94e3ae4ba81b2f9eb4b5" category="inline-link-macro">Vai migrar cargas de trabalho VMware com uso intensivo de armazenamento para Azure VMware Solution? Leia isto primeiro.</block>
+  <block id="e64d3e5c79e6674080802b27f21a9fc4" category="cell"><block ref="e64d3e5c79e6674080802b27f21a9fc4" category="inline-link-macro-rx"></block></block>
+  <block id="b476b9f8f9103a8f07ee6ba9746928e3" category="inline-link-macro">Operações de backup e restauração consistentes em caso de falha para OpenShift Virtualization VMs usando Trident 25.02</block>
+  <block id="5d9bee3614a47b04a973adf87884da72" category="cell"><block ref="5d9bee3614a47b04a973adf87884da72" category="inline-link-macro-rx"></block></block>
+  <block id="e7eb7f68cb5a04d95a6152e9d6ab37ec" category="inline-link-macro">Migração em tempo real de VMs com OpenShift Virtualization no ROSA e Amazon FSx for NetApp ONTAP</block>
+  <block id="bc1682a1060c7d0227436599caf517c4" category="cell"><block ref="bc1682a1060c7d0227436599caf517c4" category="inline-link-macro-rx"></block></block>
+  <block id="c7f30bf600f66e137aa2a0b029cf3429" category="inline-link-macro">Uma opção de backup e restauração para proteção de dados de VM em OpenShift Virtualization</block>
+  <block id="b60b03db06ab704bca6b636cd5d4f856" category="cell"><block ref="b60b03db06ab704bca6b636cd5d4f856" category="inline-link-macro-rx"></block></block>
+  <block id="aff0ae78d47ab3399d90f0aa0f9ffcc3" category="inline-link-macro">ONTAP para OpenShift Virtualization VMs: a operação de movimentação de volumes sem interrupções é sua para manter</block>
+  <block id="895589bd49a02b9781b175f68aba23e4" category="cell"><block ref="895589bd49a02b9781b175f68aba23e4" category="inline-link-macro-rx"></block></block>
+  <block id="c069b35ac4a7aee0a4a3d5d757c06779" category="inline-link-macro">Migre VMs VMware para a AWS usando Amazon EC2 e Amazon FSx ONTAP com o protocolo iSCSI</block>
+  <block id="9bbb03cd8f98e3d6d2239a58c4803f4e" category="cell"><block ref="9bbb03cd8f98e3d6d2239a58c4803f4e" category="inline-link-macro-rx"></block></block>
+  <block id="8d7efa937e97b1a8187ff8f122d9732a" category="inline-link-macro">Otimize o armazenamento para implantações VMware baseadas em nuvem</block>
+  <block id="5a6bd3a9e0048284caf2b5f521d90959" category="cell"><block ref="5a6bd3a9e0048284caf2b5f521d90959" category="inline-link-macro-rx"></block></block>
+  <block id="00d07ce14f227693b9dabba2f52b53a5" category="inline-link-macro">Comece a usar a solução Azure VMware com ofertas de nuvem baseadas em NetApp</block>
+  <block id="ac66988ead29ba5f4ed32ec3894527e7" category="cell"><block ref="ac66988ead29ba5f4ed32ec3894527e7" category="inline-link-macro-rx"></block></block>
+  <block id="14d00863ef683631706683292e1e1b3c" category="inline-link-macro">Configure a nuvem híbrida com FSx ONTAP e VMware Cloud on AWS SDDC usando VMware HCX</block>
+  <block id="e2d970cd6feb419cd8796624bacf677d" category="cell"><block ref="e2d970cd6feb419cd8796624bacf677d" category="inline-link-macro-rx"></block></block>
+  <block id="2cd9dbbc556004ec4c63b9db15995320" category="inline-link-macro">Suporte do Google Cloud NetApp Volumes datastore para Google Cloud VMware Engine (NetApp)</block>
+  <block id="81d8e8f3d71b597f33ac08980d0f1c96" category="cell"><block ref="81d8e8f3d71b597f33ac08980d0f1c96" category="inline-link-macro-rx"></block></block>
+  <block id="ad2161f671cbb71fdc30f584cb59d2d9" category="inline-link-macro">Como usar NetApp Volumes como datastores para Google Cloud VMware Engine (Google)</block>
+  <block id="cde479814511a71f58ef309f697022a4" category="cell"><block ref="cde479814511a71f58ef309f697022a4" category="inline-link-macro-rx"></block></block>
+  <block id="cc090bcb755694ec2b8ab2fa1beb2258" category="inline-link-macro">Proteção de dados 3-2-1 para VMware com SnapCenter Plug-in e BlueXP Backup and Recovery para VMs</block>
+  <block id="6845b59b08e758d1f76493bad3a906c7" category="cell"><block ref="6845b59b08e758d1f76493bad3a906c7" category="inline-link-macro-rx"></block></block>
+  <block id="9c004ebf0d7adca9e42ae6ecd9c1c4ad" category="inline-link-macro">Observabilidade para o Datacenter Moderno com NetApp Cloud Insights</block>
+  <block id="d3fb43b61178ef64f1aed3855bddc8b0" category="cell"><block ref="d3fb43b61178ef64f1aed3855bddc8b0" category="inline-link-macro-rx"></block></block>
+  <block id="6a211bce28b13011e81530086a186758" category="inline-link-macro">Proteja suas cargas de trabalho do SQL Server usando NetApp SnapCenter com Amazon FSx ONTAP</block>
+  <block id="e3611377b31e2b1fab270cf0ecadd740" category="cell"><block ref="e3611377b31e2b1fab270cf0ecadd740" category="inline-link-macro-rx"></block></block>
+  <block id="aeb79a141f3c3f603cee05dfa64277aa" category="inline-link-macro">Modernize sua operação de banco de dados Oracle em nuvem híbrida com Amazon FSx storage</block>
+  <block id="a35641294527bf47526671d78d910a7e" category="cell"><block ref="a35641294527bf47526671d78d910a7e" category="inline-link-macro-rx"></block></block>
+  <block id="c4ff33edf6e94fb434fb59e4ad2c286b" category="inline-link-macro">Soluções de banco de dados em nuvem híbrida com SnapCenter</block>
+  <block id="e6c9e9316fee7048645938d93d674056" category="cell"><block ref="e6c9e9316fee7048645938d93d674056" category="inline-link-macro-rx"></block></block>
+  <block id="fc25c016a8fb35a621842044a8d4f2e7" category="inline-link-macro">Automatize sua infraestrutura de banco de dados Oracle na nuvem híbrida</block>
+  <block id="3e78754f8bb90f06073e18a2399d0b7f" category="cell"><block ref="3e78754f8bb90f06073e18a2399d0b7f" category="inline-link-macro-rx"></block></block>
+  <block id="c3298ba6bab71519d6848d438eba1295" category="inline-link-macro">Simplificando a instalação do Trident no Red Hat OpenShift com o novo operador Trident certificado</block>
+  <block id="f195fd6ccf5aee88db79524c06279636" category="cell"><block ref="f195fd6ccf5aee88db79524c06279636" category="inline-link-macro-rx"></block></block>
+  <block id="21a8cfe4cf09592f22a2bbf42ea20bb7" category="inline-link-macro">Desbloqueie a integração perfeita de armazenamento iSCSI: um guia para FSxN em clusters ROSA para iSCSI</block>
+  <block id="78a4f6c8226b7bcbba72ed1893ed82fa" category="cell"><block ref="78a4f6c8226b7bcbba72ed1893ed82fa" category="inline-link-macro-rx"></block></block>
+  <block id="ad970c13e2f2a8a35788ff6f59f8d913" category="inline-link-macro">Amazon FSx for NetApp ONTAP com Red Hat OpenShift Service on AWS (ROSA) usando Hosted Control Plane</block>
+  <block id="00e33f9ce2c5147f227efcc7a15f07dc" category="cell"><block ref="00e33f9ce2c5147f227efcc7a15f07dc" category="inline-link-macro-rx"></block></block>
+  <block id="6d3b254fcc0ec65e40af8a4609458626" category="inline-link-macro">Utilizando NVMe/TCP para consumir armazenamento ONTAP para seus aplicativos modernos em contêineres no VMware</block>
+  <block id="086448df12463da4ce3f320cbf050a23" category="cell"><block ref="086448df12463da4ce3f320cbf050a23" category="inline-link-macro-rx"></block></block>
+  <block id="6fb0aa4dffd44f313fe916b48eb2e61a" category="inline-link-macro">ONTAP como armazenamento de backend para o registro de imagens integrado na OpenShift Container platform</block>
+  <block id="fde216d74a9722c4064ed3e13386033d" category="cell"><block ref="fde216d74a9722c4064ed3e13386033d" category="inline-link-macro-rx"></block></block>
+  <block id="32941fe507e35e7690b95531087a8523" category="inline-link-macro">NetApp ONTAP também funciona como armazenamento de logs na Red Hat OpenShift Container Platform</block>
+  <block id="6190bc67623b848bb7959b33f3f0d2eb" category="cell"><block ref="6190bc67623b848bb7959b33f3f0d2eb" category="inline-link-macro-rx"></block></block>
+  <block id="ba6fd9874b6697cb1aa44d44e6fee41c" category="inline-link-macro">Instalando NetApp Trident no Red Hat OpenShift – como resolver o problema de 'toomanyrequests' no Docker!</block>
+  <block id="ce1f05b584a4b8ad928c91ed745ca8b5" category="cell"><block ref="ce1f05b584a4b8ad928c91ed745ca8b5" category="inline-link-macro-rx"></block></block>
+  <block id="ec7f98a3714557d87968dc6a898f7912" category="inline-link-macro">Usando VMware Tanzu com ONTAP para acelerar sua jornada no Kubernetes</block>
+  <block id="32e124b0349f41e06bf1e03f11950665" category="cell"><block ref="32e124b0349f41e06bf1e03f11950665" category="inline-link-macro-rx"></block></block>
+  <block id="6ffc220bcf68cdea1a7ee60630b3770b" category="inline-link-macro">Kubernetes no vSphere (Parte 1)</block>
+  <block id="718b7fcd61673194858446821c8dea31" category="cell"><block ref="718b7fcd61673194858446821c8dea31" category="inline-link-macro-rx"></block></block>
+  <block id="c6960ae743737cb2431e58eb8f3f4c8c" category="inline-link-macro">Kubernetes no vSphere (Parte 2)</block>
+  <block id="6f01eedbaa404894cc11e49fa3f62506" category="cell"><block ref="6f01eedbaa404894cc11e49fa3f62506" category="inline-link-macro-rx"></block></block>
+  <block id="b0a058b2371e3f40c3f559b1f7d83b2f" category="summary">Coleção de blogs que apresentam as soluções NetApp</block>
+  <block id="9284d209663b949d2cafe341bd0f7935" category="doc">Blogs de soluções NetApp</block>
+  <block id="49c97f7afaf1bc38d2a4e4723d0e7a1f" category="paragraph">Consulte os blogs abaixo que oferecem orientações práticas e boas práticas para integrar o armazenamento NetApp ONTAP em diversas soluções.</block>
+  <block id="f1e98a26384a5e804c97236b60cebfae" category="open-title">Todos os blogs</block>
+  <block id="310dd198f252abd6848253f118de12ba" category="open-title">Nuvem pública e híbrida</block>
+  <block id="10d42b4bab4fd3114da1e1eae0994d36" category="open-title">SAP e SAP HAHA</block>
+  <block id="637289fda08b4d4913dfdd067cea3623" category="sidebar">Demonstrações e blogs</block>
+  <block id="1afa3402452aa41c89bab41b818e82ae" category="sidebar">Analise a coleção de demonstrações técnicas e blogs para uma variedade de NetAp soluções.</block>
 </blocks>

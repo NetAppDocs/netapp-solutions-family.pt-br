@@ -75,3 +75,9 @@ product-family:
     summary: Soluções para gerenciar seus serviços de armazenamento e dados, no local
       e em nuvens.
     tags: all,automation,protection,workloads
+  - title: Demonstrações e blogs
+    icon: "./media/icon_blogs_demos-2286_v3.png"
+    url: blogs-display.html
+    summary: Analise a coleção de demonstrações técnicas e blogs para uma variedade
+      de NetAp soluções.
+    tags: all,automation,protection,workloads
