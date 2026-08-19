@@ -7,6 +7,9 @@
 | *Categoria* | *Título do blog* 
 
 
+| IA | link:https://community.netapp.com/community/discussion/468325/comparing-kv-cache-offloading-frameworks-for-vllm["Comparando frameworks de descarregamento de cache KV para o vLLM"] 
+
+
 | Plataforma de dados | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/Architecting-an-Enterprise-Backup-and-Disaster-Recovery-for-Cloudera-with-NetApp/ba-p/467801["Projetando uma solução de backup e recuperação de desastres corporativa para Cloudera com NetApp"] 
 
 
@@ -85,7 +88,7 @@
 | Virtualização | link:https://community.netapp.com/t5/Tech-ONTAP-Blogs/NetApp-and-VMware-Better-than-ever/ba-p/445780["NetApp and VMware – Melhor do que nunca"] 
 
 
-| IA | link:++https://www.netapp.com/blog/#t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@facet_language_mktg=["Inglês"]&f:@facet_soultion_mktg=[AI,Analytics,artificial-intelligence]++[Blogs de AI em NetApp.com] 
+| IA | link:https://www.netapp.com/blog/#q=AI&t=Blogs&sort=%40publish_date_mktg%20descending&layout=card&f:@language=English["Blogs de IA no NetApp.com"] 
 
 
 | IA | link:https://netapp.io/category/ai-ml/["Blogs de IA sobre thePub"] 

@@ -16,6 +16,7 @@ As soluções são organizadas por domínios de tecnologia.
 
 
 
+[[virtualization]]
 == Virtualização
 
 Acesse integrações da NetApp com as principais plataformas de virtualização.  Simplifique o gerenciamento, aumente a eficiência dos recursos e otimize o desempenho em todo o seu ambiente.
@@ -24,6 +25,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-virtualization/["Ver soluç�
 
 
 
+[[artificial-intelligence-ai]]
 == Inteligência artificial (IA)
 
 Acelere os fluxos de trabalho de aprendizado de máquina e aprendizado profundo com as soluções de IA da NetApp.  Explore como integrar o armazenamento NetApp com estruturas de IA populares, otimizar pipelines de dados e implantar cargas de trabalho de IA com eficiência.
@@ -32,6 +34,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-ai/["Ver soluções de IA"] 
 
 
 
+[[public-and-hybrid-cloud]]
 == Nuvem pública e híbrida
 
 Implante e gerencie soluções NetApp perfeitamente em infraestruturas de nuvem pública, privada e híbrida.  Explore integrações com os principais provedores de nuvem para permitir operações consistentes e mobilidade ágil de dados.
@@ -40,6 +43,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-cloud/["Ver soluções em nu
 
 
 
+[[databases]]
 == Bancos de dados
 
 Otimize o armazenamento e o desempenho de bancos de dados corporativos, como Oracle e SQL Server.  Acesse as melhores práticas de backup, recuperação e ajuste para garantir suporte confiável para cargas de trabalho de missão crítica.
@@ -48,6 +52,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-databases/["Ver soluções d
 
 
 
+[[sap-and-sap-hana]]
 == SAP e SAP HANA
 
 Explore designs validados, técnicas de otimização de desempenho e estratégias de proteção de dados para simplificar as operações e maximizar o valor dos seus investimentos em SAP.
@@ -56,6 +61,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-sap/["Ver soluções SAP"] .
 
 
 
+[[containers]]
 == Recipientes
 
 Dê suporte a aplicativos em contêineres com soluções de armazenamento persistente e gerenciamento de dados da NetApp.  Descubra estratégias de integração com plataformas de orquestração para aumentar a escalabilidade e a resiliência.
@@ -64,6 +70,7 @@ link:https://docs.netapp.com/us-en/netapp-solutions-containers/["Ver soluções 
 
 
 
+[[data-management]]
 == Gestão de dados
 
 Dê suporte a plataformas de análise de larga escala, como Splunk e Apache Spark, com soluções de dados de alto desempenho.  Saiba como a NetApp ajuda a manter a integridade dos dados e otimizar o desempenho em ambientes analíticos complexos.
